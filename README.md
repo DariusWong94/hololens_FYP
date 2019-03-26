@@ -12,9 +12,9 @@
 
 ### Downloads
 ---------
-[Visual Studio](https://developer.microsoft.com/en-us/windows/downloads)
-[Unity3D](https://download.unity3d.com/download_unity/1f4e0f9b6a50/UnityDownloadAssistant-2017.2.2f1.exe)
-[HoloLens Emulator and Holographic Templates](http://download.microsoft.com/download/B/A/7/BA7320D5-020F-42C6-9D23-001E334FA34E/emulator/EmulatorSetup.exe)
+* [Visual Studio](https://developer.microsoft.com/en-us/windows/downloads)
+* [Unity3D](https://download.unity3d.com/download_unity/1f4e0f9b6a50/UnityDownloadAssistant-2017.2.2f1.exe)
+* [HoloLens Emulator and Holographic Templates](http://download.microsoft.com/download/B/A/7/BA7320D5-020F-42C6-9D23-001E334FA34E/emulator/EmulatorSetup.exe)
 
 
 ### Setup Instructions
