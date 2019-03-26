@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SpeechAPIScene.unity
+    guid: 845a7d0f8620b2e45b33ade66d24ec81
+  - enabled: 1
+    path: Assets/HoloToolkit-Examples/StandardShader/Scenes/MaterialGallery.unity
+    guid: c37e651ca9b544c47aaaaa1bd4486e0b
